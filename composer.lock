@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7aef1c678ec0b4193fe8f3a881e037a8",
+    "content-hash": "82feda72211a0af728701b2f016ce0ce",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -1011,47 +1011,6 @@
                 "silverstripe"
             ],
             "time": "2019-01-10T21:52:48+00:00"
-        },
-        {
-            "name": "cwp/starter-theme",
-            "version": "2.0.4",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/silverstripe/cwp-starter-theme.git",
-                "reference": "adee92eec85a1c509c3cf9a5c836e3fbe7ca3f03"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/cwp-starter-theme/zipball/adee92eec85a1c509c3cf9a5c836e3fbe7ca3f03",
-                "reference": "adee92eec85a1c509c3cf9a5c836e3fbe7ca3f03",
-                "shasum": ""
-            },
-            "require": {
-                "silverstripe/framework": "^4.0"
-            },
-            "suggest": {
-                "cwp/cwp": "Much of the functionality in this theme is enabled by this module"
-            },
-            "type": "silverstripe-theme",
-            "extra": {
-                "installer-name": "starter",
-                "expose": [
-                    "dist",
-                    "ico",
-                    "images"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "description": "CWP Theme",
-            "keywords": [
-                "cwp",
-                "silverstripe",
-                "theme"
-            ],
-            "time": "2019-03-08T04:32:52+00:00"
         },
         {
             "name": "doctrine/instantiator",
@@ -7825,7 +7784,6 @@
         "silverstripe/subsites": 0,
         "tractorcow/silverstripe-fluent": 0,
         "silverstripe/registry": 0,
-        "cwp/starter-theme": 0,
         "silverstripe/fulltextsearch-localsolr": 20
     },
     "prefer-stable": true,

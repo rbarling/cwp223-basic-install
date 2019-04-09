@@ -17,8 +17,7 @@
         "silverstripe/recipe-services": "1.1.6@stable",
         "silverstripe/subsites": "2.2.1@stable",
         "tractorcow/silverstripe-fluent": "4.2.0@stable",
-        "silverstripe/registry": "2.1.0@stable",
-        "cwp/starter-theme": "2.0.4@stable"
+        "silverstripe/registry": "2.1.0@stable"
     },
     "suggest": {
         "silverstripe/recipe-content-blocks": "Supplement the CMS with a 'content block' approach to editing"
