@@ -1,0 +1,7 @@
+/.solr/
+/fulltextsearch-localsolr/
+/vendor/
+/.env
+/public/assets/
+/public/resources/
+/themes/starter/
