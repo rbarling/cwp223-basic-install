@@ -1,0 +1,13 @@
+---
+Name: search
+After:
+  - 'cwp-search'
+---
+SilverStripe\FullTextSearch\Search\FullTextSearch:
+  indexes:
+    - SearchIndex
+
+SilverStripe\Core\Injector\Injector:
+  # The default CWP search index. Can be overridden in user configuration.
+  CWP\Search\CwpSearchEngine.search_index:
+    class: SearchIndex
